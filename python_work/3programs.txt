@@ -1,0 +1,5 @@
+1st program, truley sync and merge contacts and calendar entries.
+
+2nd a program to go and clean old mail from gmail and to be able to just get rid of spam or spamlike email.
+
+3rd create a program the sends emails to you family and friends on their birthdays and has thoughtful messages so you dont have to worry about it.
